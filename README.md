@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# deep_learning_foundation
 Deep Learning Projects
-=======
-## Installation
 =======
 # Deep Learning Nanodegree Foundation
 
@@ -38,19 +33,6 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 * [Text Generation](https://github.com/udacity/deep-learning/tree/master/tv-script-generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
 * [Machine Translation](https://github.com/udacity/deep-learning/tree/master/language-translation): Train a sequence to sequence network for English to French translation (on a simple dataset)
 * [Face Generation](https://github.com/udacity/deep-learning/tree/master/face_generation): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
-
-
-## Dependencies
->>>>>>> 90a29465587b4e76b5cd562c9ccae5fd3bac4633
-
-Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
-
-### pip
-
-To install these dependencies with pip, you can issue `pip3 install -r requirements.txt`.
-<<<<<<< HEAD
->>>>>>> 1404ea24a4aaef3c319d8e24b244506f8bdfa10e
-=======
 
 ### Conda Environments
 
